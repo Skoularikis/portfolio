@@ -17,6 +17,14 @@ portfolio/
 └── images/
 ```
 
+## Local Development
+
+```bash
+python3 -m http.server 8080
+```
+
+Then open `http://localhost:8080`
+
 ## Live Site
 
 [https://skoularikis.github.io/portfolio/](https://skoularikis.github.io/portfolio/)
